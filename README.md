@@ -95,11 +95,11 @@ Character Profile:
 
 ## 🗡️ Current Quest Arc // 任务 | Mga Current Quest ko
 
-- 🔌 **Pangunahing Gawain (Main Quest):** Pagbuo ng custom microcontroller firmware (ESP32/STM32) at IoT hardware tools.
-- 🎯 **Karagdagang Gawain 1:** Pagdisenyo ng high-availability open-source tools at pagpapatibay ng server infrastructure.
-- 🛡️ **Karagdagang Gawain 2:** Pag-aaral ng malalim sa Hardware Hacking, Reverse Engineering at Bug Hunting.
-- 🎵 **Karagdagang Gawain 3:** Pag-release ng bagong Synthwave / Cyberpunk EP at Live DJ Set.
-- 🎬 **Karagdagang Gawain 4:** Pagdidirekta ng cinematic short film at motion graphics reel.
+- 🔌 **Side Quest (Main Quest):** Pagbuo ng custom microcontroller firmware (ESP32/STM32) at IoT hardware tools.
+- 🎯 **Side Quest 1:** Pagdesing ng high-availability open-source tools at pagpapatibay ng server infrastructure.
+- 🛡️ **Side Quest 2:** Pag-aaral ng hardware hacking, reverse engineering, at bug hunting.
+- 🎵 **Side Quest 3:** Nagrerelapse 
+- 🎬 **Side Quest 4:** Pagdirect ng cinematic short film at motion graphics reel.
 
 ---
 
