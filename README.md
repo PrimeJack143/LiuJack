@@ -1,1 +1,149 @@
-## LiuJack
+# <p align="center">✨ Mabuhay! 你好! Welcome to My Digital Domain ✨</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C96&center=true&vCenter=true&width=600&lines=18-Year-Old+Embedded+Systems+Engineer;Developer+%26+System+Engineer;Blackhat+%E2%9E%94+Whitehat+Hacker;Music+Producer+%26+DJ;Photographer+%26+Videographer;Graphic+Designer+%26+Creative+Writer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="#-about-me--关于我--tungkol-sa-akin"><img src="https://img.shields.io/badge/Level-18-ff69b4?style=for-the-badge&logo=gamemaker&logoColor=white" /></a>
+  <a href="#-skills--技能--mga-kakayahan"><img src="https://img.shields.io/badge/Class-Embedded_%26_Cyber_Alchemist-7b2cbf?style=for-the-badge&logo=powershell&logoColor=white" /></a>
+  <a href="#-cybersecurity--cybersecurity"><img src="https://img.shields.io/badge/Faction-Whitehat_Guild-00f5d4?style=for-the-badge&logo=shield&logoColor=black" /></a>
+  <a href="#-audio--audio--music"><img src="https://img.shields.io/badge/Vibe-Infinite_Beats-f15bb5?style=for-the-badge&logo=flstudio&logoColor=white" /></a>
+</p>
+
+---
+
+> *"Mastering hardware & low-level code by day, weaving sound & visuals by night. An 18-year-old digital polymath merging embedded hardware, system engineering, security, and creative arts into a single journey."*
+
+---
+
+## 🌸 About Me // 关于我 | Tungkol sa Akin
+
+```yaml
+Character Profile:
+  Age: 18
+  Base Class: Embedded Systems Engineer & System Engineer
+  Subclasses: Software Developer, Whitehat Hacker, Music Producer, Visual Artist, Writer
+  Passive Skill: [Extreme Adaptation] - Learns new hardware, firmware, tools, and arts at 3x speed
+  Alignment: Chaotic Good (From Rogue Blackhat to Guardian Whitehat)
+  Current Mana: 100% (Fueled by Lo-Fi, Coffee, and Code)
+```
+
+- 🔌 **Embedded Systems & Hardware:** Gumagawa ng custom firmware, microcontrollers (ESP32, STM32, Arduino, Raspberry Pi), IoT architectures, at low-level C/C++ code.
+- 💻 **Tech & Systems:** Pag-develop ng scalable software, pag-manage ng server stacks, at pagdesign ng stable na infrastructure.
+- 🛡️ **Cybersecurity:** Dati akong **Blackhat** at naging **Whitehat**, nag-iinspection ng penetration testing, hardware hacking, at security audits.
+- 🎧 **Sound Design & Beats:** Nagpopro-duce ng EDM/Hip-Hop beats, audio engineering, at nagde-DJ.
+- 🎬 **Visual Media:** Photographer at videographer (Photography/Videography), video editing, motion graphics, at graphic design.
+- ✍️ **Writer:**  Nagsusulat ng mga novel, short stories, at kahit anong concepts.
+
+---
+
+## 🎭 RPG Character Stats // 属性 | Mga Stats
+
+| Attribute | Level / Rating | Primary Toolset / Weapon |
+| :--- | :--- | :--- |
+| **Embedded Systems** | ██████████ 90% | C, C++, ESP32, STM32, Arduino, RTOS, PCB Design |
+| **Software Development** | ██████████ 90% | Python, JavaScript, Linux, Bash, Git |
+| **System Engineering** | █████████░ 85% | Docker, Linux Admin, Networking, Cloud Stacks |
+| **Whitehat Hacking** | █████████░ 85% | Burp Suite, Nmap, Metasploit, Wireshark, Hardware Hacking |
+| **Music Production & DJ** | █████████░ 85% | FL Studio / Ableton, Serato, DJ Controllers |
+| **Video & Photo Editing** | ██████████ 90% | Premiere Pro, After Effects, Photoshop, Lightroom |
+| **Videography & Photo** | ████████░░ 80% | DSLR/Mirrorless, Color Grading, Lighting |
+| **Graphic Design** | █████████░ 85% | Illustrator, Figma, Canvas Design |
+| **Writing & Lore** | ████████░░ 80% | Markdown, Creative Prose, Scriptwriting |
+
+---
+
+## ⚡ Skill Tree & Toolkit // 技能 | Mga Skills ko
+
+### 🔌 Embedded Systems & Hardware Engineering
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234C?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+
+### 💻 System Engineering & Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### 🛡️ Cybersecurity & Pentesting
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-252A34?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Ethical Hacking](https://img.shields.io/badge/Whitehat-00F5D4?style=for-the-badge&logo=shield&logoColor=black)
+
+### 🎧 Audio & Music Production
+![FL Studio](https://img.shields.io/badge/FL_Studio-FF4500?style=for-the-badge&logo=image&logoColor=white)
+![Ableton](https://img.shields.io/badge/Ableton-000000?style=for-the-badge&logo=ableton&logoColor=white)
+![DJing](https://img.shields.io/badge/DJ_Performance-9B59B6?style=for-the-badge&logo=music&logoColor=white)
+![Sound Design](https://img.shields.io/badge/Sound_Design-E74C3C?style=for-the-badge&logo=audio&logoColor=white)
+
+### 🎨 Visual Arts & Cinematography & Astrophotography
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🗡️ Current Quest Arc // 任务 | Mga Current Quest ko
+
+- 🔌 **Pangunahing Gawain (Main Quest):** Pagbuo ng custom microcontroller firmware (ESP32/STM32) at IoT hardware tools.
+- 🎯 **Karagdagang Gawain 1:** Pagdisenyo ng high-availability open-source tools at pagpapatibay ng server infrastructure.
+- 🛡️ **Karagdagang Gawain 2:** Pag-aaral ng malalim sa Hardware Hacking, Reverse Engineering at Bug Hunting.
+- 🎵 **Karagdagang Gawain 3:** Pag-release ng bagong Synthwave / Cyberpunk EP at Live DJ Set.
+- 🎬 **Karagdagang Gawain 4:** Pagdidirekta ng cinematic short film at motion graphics reel.
+
+---
+
+## 📊 Cyber Deck Radar // 统计 | Terminal at Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&border_color=f75c96&title_color=f75c96&icon_color=00f5d4" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&border_color=f75c96&title_color=f75c96" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&border=f75c96&background=1a1b26" alt="GitHub Streak" width="97%" />
+</p>
+
+---
+
+## 🎧 Creative Station & Portfolios // 作品集 | Gallery
+
+<p align="center">
+  <a href="https://soundcloud.com"><img src="https://img.shields.io/badge/SoundCloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white" /></a>
+  <a href="https://youtube.com"><img src="https://img.shields.io/badge/YouTube_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://behance.net"><img src="https://img.shields.io/badge/Behance_Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
+  <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+## 📬 Dispatch Guild Signal // 联系方式 | Contacts Us
+
+<p align="center">
+  <a href="mailto:jackjackcuizon@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="[https://facebook.com](https://www.facebook.com/writtenbyjack)">
+    <img src="https://img.shields.io/badge/Facebook-5865F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com">
+    <img src="https://img.shields.io/badge/X/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <sub><i>"Code is my magic system, hardware is my vessel, sound is my rhythm, and visuals are my vision." ✨</i></sub>
+</p>
