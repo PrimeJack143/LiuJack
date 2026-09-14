@@ -111,7 +111,7 @@ Character Profile:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&border=f75c96&background=1a1b26" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrimeJack143&theme=tokyonight&border=f75c96&background=1a1b26" alt="GitHub Streak" width="97%" />
 </p>
 
 ---
