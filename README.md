@@ -106,8 +106,8 @@ Character Profile:
 ## 📊 Cyber Deck Radar // 统计 | Terminal at Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&border_color=f75c96&title_color=f75c96&icon_color=00f5d4" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&border_color=f75c96&title_color=f75c96" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PrimeJack143&show_icons=true&theme=tokyonight&border_color=f75c96&title_color=f75c96&icon_color=00f5d4" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrimeJack143&layout=compact&theme=tokyonight&border_color=f75c96&title_color=f75c96" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
